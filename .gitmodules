@@ -1,0 +1,6 @@
+[submodule "lib/brmg"]
+	path = lib/brmg
+	url = https://github.com/bidoch78/brmg.git
+[submodule "lib/beaf"]
+	path = lib/beaf
+	url = https://github.com/bidoch78/beaf.git
